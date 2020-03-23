@@ -298,6 +298,9 @@ public class MainActivity extends ListActivity {
 
                     int[] recommendorRackOrder = new int[uniquerecommendation.length];
 
+                    /**
+                     * Obtaining recommendation rack order for all the products entered in the list
+                     */
                     k = 0;
                     for (i = 0;i<uniquerecommendation.length;i++) {
                         product_name = lines_product[uniquerecommendation[i]];
@@ -383,6 +386,9 @@ public class MainActivity extends ListActivity {
                             }
                         }
 
+                        /**
+                         * Sorting recommendation order according to the corresponding rack orders
+                         */
                         int temp3;
                         for (i = 0; i < uniquerecommendation.length; i++) {
                             for (j = i + 1; j < uniquerecommendation.length; j++) {
