@@ -1,4 +1,4 @@
-# Deloitte_TechnoUtsav
+# Deloitte_TechnoUtsav 3.0
 This is an android application for Deloitte TechnoUtsav 3.0 hosted in TechGig platform.
 Problem Statement: Build a solution to help the customers find products in the store and help them navigate to the corresponding aisle/shelf. If there is a shopping list, provide the best shopping trip to complete the purchases and recommend products based on the shopping list of customer.
 
