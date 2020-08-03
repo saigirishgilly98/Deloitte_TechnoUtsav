@@ -12,7 +12,7 @@
     android:background="@drawable/back"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context="com.example.loweproject.MainActivity">
+    tools:context="com.example.deloittetechnoutsav.MainActivity">
 
     <AutoCompleteTextView
         android:id="@+id/actv"
